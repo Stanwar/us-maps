@@ -1,3 +1,9 @@
+## ZipCodes in Geojson 
+
+Added a python script to get zipcodes per state IDs given as command line argument. 
+
+||| zipByStateID.py -s 17
+
 # Creation process
 
 The maps here were created using the following steps.
@@ -90,3 +96,4 @@ A simplification threshold of `3` retained 150581 / 549117 points (27%), while a
 ## Reference files
 
 The `reference` directory has lookup files to get names for each of the IDs, as well as getting parent information (e.g. which state is a HRR in).
+
