@@ -2,7 +2,7 @@
 
 Added a python script to get zipcodes per state IDs given as command line argument. 
 ```
- zipByStateID.py -s 17
+ $ Python3 zipByStateID.py -s 17
 ```
 # Creation process
 
