@@ -1,9 +1,9 @@
 ## ZipCodes in Geojson 
 
 Added a python script to get zipcodes per state IDs given as command line argument. 
-
-||| zipByStateID.py -s 17
-
+```
+ zipByStateID.py -s 17
+```
 # Creation process
 
 The maps here were created using the following steps.
